@@ -2,7 +2,7 @@
 
 - 3D-model of a retro-style diner made with blender
 
-- All assets are made from scratch (including textures/materials)
+- All assets are made from scratch (including most textures/materials)
 
 ## RENDERS:
 
